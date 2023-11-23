@@ -4,7 +4,7 @@
     <img src="https://i.postimg.cc/zBWwxTxx/favicon.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Prezenta URA</h3>
+  <h3 align="center">AttendanceHelper</h3>
 
   <p align="center">
     Aplicație React pentru crearea rapidă și ușoară a listelor de prezență.
